@@ -1,0 +1,33 @@
+html{
+	font-family: georgia;
+	border-bottom-color: green;
+	border-bottom-style: dotted;
+}
+
+h1{
+	color: red;
+}
+
+h2{
+	color: crimson;
+}
+
+h3{
+	color: maroon;
+}
+
+body{
+	text-align: center;
+	color: purple;
+	background-color: thistle;
+	font-size: 20px;
+	
+}
+
+.bruh{
+	font-size: 30px;
+}
+
+#brew{
+	color: navy;
+}

@@ -1,0 +1,49 @@
+html{
+	background-image: url("https://media1.tenor.com/images/daa17853d283b711e3c2b99eb39ff19f/tenor.gif?itemid=5239765");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	/*overflow: hidden;*/
+	height: 500px;
+	background-attachment: fixed;
+	text-align:center;
+	font-family: georgia;
+}
+
+head{
+	text-align: center;
+	
+}
+
+p {
+	text-align: center;
+	color:dodgerblue;
+	border-style: dotted;
+	border-color: red;
+	background-color: palegreen;
+	
+}
+
+#bruh{
+	padding-top:500px;
+	width: 10%;
+	height: 10%;
+}
+
+#meg{
+	font-size:50px;
+}
+
+/* @media (max-width: 500px){
+	body{
+		background-color: red;
+		*** This makes changes the background color depending on the size of your window
+		aka making the minimized image a color based on how small you made it***
+		
+		(or screen size)
+		
+		Same goes for the media iwith min-width
+	}
+}
+*/
+
